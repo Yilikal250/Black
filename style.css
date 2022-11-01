@@ -1,0 +1,25 @@
+h1 {
+color: yellowgreen;
+}
+body{
+
+    font-family: sans-serif;
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+#message-el{
+font-weight:bolder;
+
+}
+button {
+color:#016f32;
+width:150px;
+background:goldenrod;   
+padding: 5px;
+font-weight: bold;
+border: none;
+border-radius: 2px;
+}
